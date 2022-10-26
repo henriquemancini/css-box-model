@@ -1,3 +1,3 @@
 # css-box-model
  A Rothko painting.
- in process...
+Abrir arquivos box-model juntos para a visualização do projeto.
